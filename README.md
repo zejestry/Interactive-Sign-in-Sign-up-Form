@@ -2,6 +2,9 @@
 
 This project implements an interactive sign-in/sign-up form using HTML, CSS, and JavaScript. It features two panels for signing up and signing in, with smooth transitions between them.
 
+## Preview
+https://www.tiktok.com/@zejestry/video/7362841206344125702
+
 ## Features
 
 - User-friendly sign-in/sign-up interface
@@ -12,3 +15,6 @@ This project implements an interactive sign-in/sign-up form using HTML, CSS, and
 ## Usage
 
 To use this project, simply clone the repository and open `index.html` in your web browser.
+
+```bash
+git clone https://github.com/zejestry/Interactive-Sign-in-Sign-up-Form.git
